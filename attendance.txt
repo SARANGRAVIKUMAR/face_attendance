@@ -1,0 +1,9 @@
+attendance of the hour	1
+sarang
+name of the lecturer:	bcd
+subject name:	bcf
+)name		attendance
+allen		absent
+ashwin		absent
+kutty		absent
+sarang		present
